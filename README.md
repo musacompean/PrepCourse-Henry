@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Curso preparatorio henry
+Este proyecto es una prueba de como crear unrepositorio
